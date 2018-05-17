@@ -1,0 +1,265 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hello world</mj-title>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-text 
+          font-size="20px" 
+          align="center"
+        >
+          4 workshops. 33 speakers. 22 installations. 7 performances. 
+        </mj-text>
+        <mj-text 
+          font-size="20px" 
+          padding-bottom="15px" 
+          align="center"
+        >
+          Exploring the theme of #ARTOBOTS
+        </mj-text>
+        <mj-image src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" width="190px"></mj-image>
+        <mj-button 
+          font-family="Asap" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+        >
+          Get Tickets
+        </mj-button>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          25% discount applied when clicking through this email ^___^
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%">
+        <mj-image padding="0px" href="" src="https://festival.codame.com/img/sendy/angeloy9000-on-twitter.jpg"></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          #barbatos #edit by @angeloy9000
+        </mj-text>
+        <mj-text>Electrified to share the full schedule! After having our lips soldered shut while wiring up the final details 😉 Dig in at the freshly-launched <a href="https://festival.codame.com/">festival.codame.com</a> site or keep reading for the executive summary ⌛️</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding-top="5px" padding-bottom="10px">
+      <mj-column width="100%">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+        >
+          Workshops
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image padding="0px" src="https://festival.codame.com/img/sendy/shine-bag.jpg"></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Shine Bag by Linda using Anina Net LED Ribbon
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          All workshop participants are encouraged to show their work at the ART+TECH Festival! Come make your mark by getting hands on with Twitter Bots, Spacial Audio, Fashion Technology, and AI Style Transfer. 5:30pm on the evenings of June 4th and 5th.
+        </mj-text>
+        <mj-button 
+          font-family="Asap" 
+          color="#1d021d" 
+          font-size="14px" 
+          background-color="#d6e6fa"
+          padding-top="0px"
+          padding-bottom="30px"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="45px"
+        >
+          INTIMATE SALON<br>
+          STYLE TALKS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-image padding="0px" src="https://festival.codame.com/img/sendy/lightning-stalkers.jpg"></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Xandra Ibarra and Marpi at CODAME + CounterPulse Matchbox Salon
+        </mj-text>        
+        <mj-text padding-bottom="10px">
+          Shake hands and swirl thoughts with top-of-their-field minds exploring the outer bounds of robotics, automation, and artificial intelligence... and what it all means in the context of humanity and ART!</p> <p>There isn't an industry untouched by #ARTOBOTS so convince the boss to spring for a ticket and join us for the June 6th and 7th daytime sessions.
+        </mj-text>
+        <mj-button 
+          font-family="Asap" 
+          color="#1d021d" 
+          font-size="14px" 
+          background-color="#d6e6fa"
+          padding-top="0px"
+          padding-bottom="30px"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="45px"
+        >
+          INSTALLATIONS +<br>
+          PERFORMANCES
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-image padding="0px" src="https://festival.codame.com/img/sendy/laetitia-sonami.jpg"></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Xandra Ibarra and Marpi at CODAME + CounterPulse Matchbox Salon
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          After the June 5th &amp; 6th conferences, we will transform The Midway into an ART+TECH nightlife extravaganza filled with inspiring experiences + exhilarating performances in the company of like minded individuals who share a curiosity for <i>the mechanical that appears organic and the organic that behaves mechanically!</i>
+        </mj-text>
+        <mj-button 
+          font-family="Asap" 
+          color="#1d021d" 
+          font-size="14px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="14px">
+          <p>As you can see, Vanessa Chang has done an amazing job curating our anual ART+TECH Festival! While the program is full at this point, we always love to hear about your latest innovations and projects via the project proposal forum.</p> 
+          <p>If you are interested to lend a hand or brain to the CREW bringing ART+TECH to life, fill out the Join Us! forum to hear back from the CODAME Volunteer co-ordinator: Josh Santangelo.</p>
+          <p>Looking forward to seeing you in June!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+    
+    <mj-section background-color="#917792" >
+      <mj-column>
+        <mj-text font-size="14px" color="#1d021d" align="center">
+          <p>🙏 our forward thinking ART+TECH sponsors 🙏</p> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by Jordan Gray. Please let me know your feedback/thoughts!<br>
+          You can send the permalink to friends or invite them to subscribe.<br>
+          If you unsubscribe I hope to see you around the other channels or meatspace =)
+          Thank you for your support of ART+TECH!
+        </mj-text>        
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="65%">
+        <mj-image align="left" width="150px" href="https://recast.ai?ref=newsletter" src="https://cdn.recast.ai/newsletter/recast-ai-01.png"></mj-image>
+      </mj-column>
+      <mj-column width="35%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td> <a href="https://twitter.com/RecastAI">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td> <a href="https://www.facebook.com/recastAI">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td> <a href="https://medium.com/@RecastAI">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+            <td> <a href="https://www.youtube.com/channel/UCA0UZlR8crpgwFiVaSTbVWw">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/youtube.png" />
+                </a> </td>
+            <td> <a href="https://plus.google.com/u/0/+RecastAi">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/google%2B.png" />
+                </a> </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
