@@ -1,0 +1,385 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hello world</mj-title>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-text 
+          font-size="20px" 
+          align="center"
+          padding-bottom="15px"
+        >
+          Inspire your team with an unforgettable experience.
+        </mj-text>
+        <mj-image 
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets" 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+        ></mj-image>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets"
+        >
+          Get Tickets
+        </mj-button>
+        <mj-text 
+          font-size="16px" 
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Use CODAME-INSPIRE for 30% off five or more tickets
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%">
+        <mj-image 
+          href="https://festival.codame.com/img/sendy/2018may29/CODAME_-_Inspire_Your_Team_-_Group_Ticket_Buy_Discount.jpg" 
+          padding="0px" 
+          src="https://festival.codame.com/img/sendy/2018may29/CODAME_-_Inspire_Your_Team_-_Group_Ticket_Buy_Discount.jpg"
+        ></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Save the JPG and share it with your team!
+        </mj-text>
+        <mj-text>
+          Be a leader who goes beyond the obvious and look to create wider reaching impact that extends into the community. Bring your team, coworkers and group of friends to our annual <a href="https://festival.codame.com/">CODAME ART+TECH Festival [2018]</a> exploring the theme of #ARTOBOTS through art, discussion, and play.
+        </mj-text>
+        <mj-text>
+          Learn more at <a href="https://festival.codame.com/">festival.codame.com</a> or grab tickets for your team using <a href="">CODAME-INSPIRE</a> for 30% off five or more tickets.
+        </mj-text>
+        <mj-text>
+          Updates to our packed programming below! 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding-top="5px" padding-bottom="10px">
+      <mj-column width="100%">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+        >
+          Build a Social
+        </mj-text>
+        <mj-text 
+          font-size="40px" 
+          align="center"
+        >
+          Art Bot Workshop
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image 
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets" 
+          padding="0px" 
+          src="https://festival.codame.com/img/sendy/2018may29/twitter-bird-bot-march-1meg.gif"
+        ></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Image by DougChayka.com
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          Bot-building is a fun project for programmers looking for an expressive outlet, creatives interested in expanding their toolbox, and everyone in between. This workshop will enable beginners and inspire pros to create new forms of automated art. Hosts will guide participants through the process (both conceptual and technical) of making bots — not just as interfaces, but as vehicles for rhetoric and personal expression.
+        </mj-text>
+        <mj-text padding-bottom="0px">
+          Come to the Midway on Tuesday, June 5th where we will be keeping an eye on the San Francisco Primary Election results as we construct a new legion of Twitter Art Bots. Their output and influence is up to you!
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          <ul>
+            <li>Lead by <a href="http://codame.com/artists/yiying-lu">Yiying Lu</a> and <a href="http://codame.com/artists/lil-pdf">Lil PDF</a>
+            <li>No prior coding experience or artistic practice required. The workshop curiculum is designed to elevate skills of all levels.</li>
+            <li>Do bring your laptop to follow along and bring your SocialBot to life!</li>
+            <li>Participants in the will be encouraged to display their work at the ART+TECH Festival [2018] #ARTOBOTS</li>
+          </ul>
+        </mj-text>
+
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="14px" 
+          background-color="#d6e6fa"
+          padding-top="0px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets"
+
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="45px"
+        >
+          Shybot Hunt
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-image 
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets" 
+          padding="0px" 
+          src="https://festival.codame.com/img/sendy/2018may29/shybot-1meg.gif"></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          Concept by <a href="http://codame.com/artists/norma-jeane">Norma Jeane</a>, Model by <a href="http://codame.com/artists/eric-hanson">Eric Hanson</a>, Visualization by <a href="http://codame.com/artists/donald-hanson">Don Hanson</a>
+        </mj-text>        
+        <mj-text padding-bottom="10px">
+          Our endearingly bashful buddy may have slipped away at ‘Desert X’ but has been replicating to re-appear in San Francisco!
+        </mj-text>
+        <mj-text padding-bottom="20px">
+          Keep your eyes peeled for Shybot clones at the CODAME ART+TECH Festival [2018] #ARTOBOTS and return them to registration to win some prizes 🤖💰
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="14px" 
+          background-color="#d6e6fa"
+          padding-top="0px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="45px"
+        >
+          Nightlife Closing
+        </mj-text>
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="45px"
+        >
+          Musical Acts
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-image 
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets" 
+          padding="0px" 
+          src="https://festival.codame.com/img/sendy/2018may29/music-acts.jpg"
+        ></mj-image>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          misterinterrupt (inner) & william s braintree (outter)
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          Going out in a storm of energizing electro-static, we have added unique closing acts to each evening of ART+TECH Festival [2018] #ARTOBOTS
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          Wednesday Only! misterinterrupt will guide infected cybernetic souls into a sonic space fit for uninstalling any TraumaOS™ cultural malware modules.
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          Thursday Only! Tachyon Pulse is a performance by William S. Braintree that uses a homemade xenharmonic tuning system built from an array of delay units. 
+        </mj-text>
+          http://codame.com/artists/william-s-braintree
+          http://codame.com/artists/misterinterrupt
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="14px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=sendy29may&discount=CODAME-INSPIRE#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#917792" >
+      <mj-column>
+        <mj-text font-size="14px" color="#d6e6fa" align="center">
+          <p>Kudos to our forward thinking ART+TECH sponsors 👏</p> 
+        </mj-text>
+        <mj-table padding-top="0px">
+          <tr style="list-style: none;line-height:1">
+            <td> <a href="http://codame.com/sponsors">
+                  <img width="125" src="https://festival.codame.com/img/sendy/logos/daylighted-small.jpg" />
+                </a> </td>
+            <td> <a href="http://codame.com/sponsors">
+                  <img width="125" src="https://festival.codame.com/img/sendy/logos/salesforce-small.png" />
+                </a> </td>
+            <td style="padding: 0 20px 0 0;"> <a href="http://codame.com/sponsors">
+                  <img width="125" src="https://festival.codame.com/img/sendy/logos/http-sfgfta-org-small.jpg" />
+                </a> </td>
+            <td> <a href="http://codame.com/sponsors">
+                  <img 
+                    width="125" 
+                    src="https://festival.codame.com/img/sendy/logos/the-shop-small.jpg" 
+                  />
+                </a> </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="14px" color="#d6e6fa" align="center">
+          <p>And to our in-kind partners 👏</p> 
+        </mj-text>
+        <mj-table padding-top="0px">
+          <tr style="list-style: none;line-height:1">
+            <td> <a href="http://codame.com/sponsors">
+                  <img width="80" src="https://festival.codame.com/img/sendy/logos/the-midway-small.png" />
+                </a> </td>
+            <td> <a href="http://codame.com/sponsors">
+                  <img width="80" src="https://festival.codame.com/img/sendy/logos/intersection-for-the-arts-small.png" />
+                </a> </td>
+            <td> <a href="http://codame.com/sponsors">
+                  <img width="80" 
+                  src="https://festival.codame.com/img/sendy/logos/laser-small.jpg" />
+                </a> </td>
+            <td> <a href="http://codame.com/sponsors">
+                  <img 
+                    width="80" 
+                    src="https://festival.codame.com/img/sendy/logos/lrle.png" />
+                </a> </td>
+            <td style="padding: 0 5px 0 0;"> <a href="http://codame.com/sponsors">
+                  <img 
+                    width="60" 
+                    src="https://festival.codame.com/img/sendy/logos/leonardo-small.png" />
+                </a> </td>
+            <td> <a href="http://codame.com/sponsors">
+                  <img 
+                    width="80" 
+                    src="https://festival.codame.com/img/sendy/logos/360fashion-small.png" 
+                  />
+                </a> </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="14px" color="#d6e6fa" align="center">
+          <p>👾 <a style="color: #d6e6fa" href="http://codame.com/sponsors">Contact Us!</a> to support CODAME ART+TECH 👾</p> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="14px">
+          <p>If you are interested to lend a hand or brain to the CREW bringing ART+TECH to life, fill out the <a href="http://codame.com/pages/call-for-volunteers">Join Us! forum</a>. Let us know about your latest projects via the <a href="http://codame.com/pages/call-for-proposals">proposal forum</a>!</p> 
+          <p>Keep the ART+TECH vibes alive through the weekend with buy-one-get-one-free tickets to 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="10px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by <a href="http://codame.com/artists/jordan-gray">Jordan Gray</a>. Please let me know your feedback/thoughts!<br>
+          You can send the permalink to friends or invite them to subscribe.<br>
+          If you unsubscribe I hope to see you around the other channels or meatspace =)
+          Thank you for your support of ART+TECH!
+        </mj-text>        
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="65%">
+        <mj-image align="left" width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+      </mj-column>
+      <mj-column width="35%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td> <a href="https://twitter.com/codame">
+                  <img 
+                    width="25" 
+                    style="border-radius: 2px"
+                    src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img 
+                    width="25" 
+                    style="border-radius: 2px"                    
+                    src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td> <a href="https://medium.com/codame-art-tech">
+                  <img 
+                    width="25" 
+                    style="border-radius: 2px"
+                    src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
