@@ -127,7 +127,7 @@
     <mj-section background-color="#3c043a" padding-top="30px">
     </mj-section>
 
-  <mj-section background-color="#1d021d">
+    <mj-section background-color="#1d021d">
       <mj-column width="100%" padding-top="30px">
         <mj-image padding="0px" href="http://codame.com/projects/block-bills" src="http://codame.com/uploaded_images/block-bills-small.jpg"></mj-image>
         <mj-text 
@@ -191,35 +191,6 @@
     <mj-section background-color="#3c043a" padding-top="30px">
     </mj-section>
     
-    <mj-section background-color="#917792" >
-      <mj-column>
-        <mj-text font-size="14px" color="#d6e6fa" align="center">
-          <p>Kudos to our forward thinking ART+TECH sponsors 👏</p> 
-        </mj-text>
-        <mj-table padding-top="0px">
-          <tr style="list-style: none;line-height:1">
-            <td> <a href="http://codame.com/sponsors">
-                  <img width="125" src="https://festival.codame.com/img/sendy/logos/daylighted-small.jpg" />
-                </a> </td>
-            <td> <a href="http://codame.com/sponsors">
-                  <img width="125" src="https://festival.codame.com/img/sendy/logos/salesforce-small.png" />
-                </a> </td>
-            <td style="padding: 0 20px 0 0;"> <a href="http://codame.com/sponsors">
-                  <img width="125" src="https://festival.codame.com/img/sendy/logos/http-sfgfta-org-small.jpg" />
-                </a> </td>
-            <td> <a href="http://codame.com/sponsors">
-                  <img width="125" src="https://festival.codame.com/img/sendy/logos/the-shop-small.jpg" />
-                </a> </td>
-          </tr>
-        </mj-table>
-        <mj-text font-size="14px" color="#d6e6fa" align="center">
-          <p>👾 <a style="color: #d6e6fa" href="http://codame.com/sponsors">Contact Us!</a> to support CODAME ART+TECH 👾</p> 
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#3c043a" padding-top="30px">
-    </mj-section>
-
     <mj-section>
       <mj-column>
         <mj-text 
