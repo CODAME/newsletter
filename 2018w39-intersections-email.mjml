@@ -21,13 +21,13 @@
           src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
           width="190px"
         ></mj-image>
-        <mj-text font-size="40px" align="center" line-height="1.2em">
+        <mj-text font-size="40px" align="center" line-height="1.2%">
                 Newsletter #1
         </mj-text>
-        <mj-text font-size="28px" align="center" line-height="1.2em">
+        <mj-text font-size="28px" align="center" line-height="1.2%">
           Announcing <a href="http://codame.com/artists/kinetech-arts">Kinetech Arts</a>, <a href="http://codame.com/artists/cere-davis">Cere Davis</a>, <a href="http://codame.com/artists/matthias-d-rfelt">Matthias Dörfelt</a> @ <b>Intersections</b>
         </mj-text>
-        <mj-text font-size="20px" align="left" line-height="1.4em">
+        <mj-text font-size="20px" align="left" line-height="1.4%">
           We are really excited  to announce the following <b>CODAME</b> Featured Artists joining <a href="http://codame.com/events/intersections">Intersections</a>, a CODAME Evening event part of <a href="https://www.leonardo.info/convening">The Leonardo Convening</a>, featuring gallery installations, screenings, and performances, <b>Intersections</b> explores the surprising, inspiring, and challenging crossings of art, science, and technology.
         </mj-text>
         <mj-text>
@@ -35,7 +35,7 @@
           <br>
           When: Saturday, November 3rd, 2018, from 6pm to 10pm
         </mj-text>
-        <mj-text align="center" font-size="20px" margin-bottom="0" padding-bottom="0">RSVP</mj-text>
+        <mj-text align="center" font-size="20px" padding-bottom="0">RSVP</mj-text>
         <mj-button 
           font-family="Asap, Helvetica, sans-serif" 
           color="#1d021d" 
@@ -61,7 +61,7 @@
         <mj-text 
           font-size="38px" 
           align="center"
-          line-height="1em"
+          line-height="1%"
         >
           INTERSECTIONS
         </mj-text>
