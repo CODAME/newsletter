@@ -21,13 +21,13 @@
           src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
           width="190px"
         ></mj-image>
-        <mj-text font-size="40px" align="center" line-height="1.2%">
+        <mj-text font-size="40px" align="center" line-height="45px">
                 Newsletter #1
         </mj-text>
-        <mj-text font-size="28px" align="center" line-height="1.2%">
+        <mj-text font-size="28px" align="center" line-height="45px">
           Announcing <a href="http://codame.com/artists/kinetech-arts">Kinetech Arts</a>, <a href="http://codame.com/artists/cere-davis">Cere Davis</a>, <a href="http://codame.com/artists/matthias-d-rfelt">Matthias Dörfelt</a> @ <b>Intersections</b>
         </mj-text>
-        <mj-text font-size="20px" align="left" line-height="1.4%">
+        <mj-text font-size="20px" align="left" line-height="25px">
           We are really excited  to announce the following <b>CODAME</b> Featured Artists joining <a href="http://codame.com/events/intersections">Intersections</a>, a CODAME Evening event part of <a href="https://www.leonardo.info/convening">The Leonardo Convening</a>, featuring gallery installations, screenings, and performances, <b>Intersections</b> explores the surprising, inspiring, and challenging crossings of art, science, and technology.
         </mj-text>
         <mj-text>
@@ -82,7 +82,8 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
 
     <mj-section background-color="#1d021d">
       <mj-column width="100%" padding-top="15px">
@@ -102,6 +103,8 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
 
     <mj-section background-color="#1d021d">
       <mj-column width="100%" padding-top="30px">
@@ -120,6 +123,8 @@
 
         </mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
     </mj-section>
 
   <mj-section background-color="#1d021d">
@@ -143,6 +148,8 @@
 
         </mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
     </mj-section>
 
     <mj-section background-color="#1d021d">
