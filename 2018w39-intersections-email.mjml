@@ -198,9 +198,10 @@
           color="#917792"
         >
           This email was lovingly hacked together by CODAME Ninjas!<br>
-          <unsubscribe>Unsubscribe</unsubscribe> if you must ;)
+          <a href="[unsubscribe]">Unsubscribe</a> if you must ;)<br>
+          <a href="[webversion]">Permalink</a> to a shareable web version<br>
           Thank you for your support of ART+TECH!
-        </mj-text>        
+        </mj-text>
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
     </mj-section>
