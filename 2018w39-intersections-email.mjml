@@ -21,9 +21,6 @@
           src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
           width="190px"
         ></mj-image>
-        <mj-text font-size="40px" align="center" line-height="45px">
-                Newsletter #1
-        </mj-text>
         <mj-text font-size="28px" align="center" line-height="45px">
           Announcing <a href="http://codame.com/artists/kinetech-arts">Kinetech Arts</a>, <a href="http://codame.com/artists/cere-davis">Cere Davis</a>, <a href="http://codame.com/artists/matthias-d-rfelt">Matthias Dörfelt</a> @ <b>Intersections</b>
         </mj-text>
@@ -69,7 +66,7 @@
     </mj-section>
     <mj-section background-color="#1d021d" padding="0" padding-bottom="34px">
       <mj-column width="100%" padding-top="20px" padding="0px">
-        <mj-image padding="0px" href="http://codame.com/events/intersections" src="http://codame.com/uploaded_images/intersections-small.png"></mj-image>
+        <mj-image padding="0px" href="http://codame.com/events/intersections" src="http://codame.com/uploaded_images/intersections.png"></mj-image>
         <mj-text 
           padding="24px 100px 10px"
           font-style="italic"
