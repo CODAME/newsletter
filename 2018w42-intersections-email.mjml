@@ -199,16 +199,16 @@
       <mj-column width="64%">
         <mj-image align="left" width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
       </mj-column>
-      <mj-column width="35%">
+      <mj-column width="34%">
         <mj-table>
           <tr style="list-style: none;line-height:1">
-            <td> <a href="https://twitter.com/codame">
+            <td align="right"> <a href="https://twitter.com/codame">
                   <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
                 </a> </td>
-            <td> <a href="https://www.facebook.com/CODAME.ART.TECH">
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
                   <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
                 </a> </td>
-            <td> <a href="https://medium.com/codame-art-tech">
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
                   <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
                 </a> </td>
         </mj-table>
