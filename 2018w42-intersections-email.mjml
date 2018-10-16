@@ -158,10 +158,10 @@
           CODAME forms the future through inspiring experiences and playful ART+TECH projects. CODAME events, installations, and workshops connect people of all specialties and backgrounds. There are many ways to participate in the visionary celebration:
         </mj-text>
         <mj-text>
-          <li>Get your <a href="http://codame.com/events/intersections">tickets</a> for the event</li>
+          <li>Get your <a href="https://codame.eventbrite.com?aff=w42b&amp;discount=CODAME-FRIENDS#tickets">tickets</a> for the event</li>
           <li>Invite your friends or your teammates</li>
-          <li><a href="http://codame.com/pages/join-us">Join us</a> as a volunteer, we always need one more hand</li>
-          <li>Support ART+TECH and become a <a href="http://codame.com/sponsors">sponsor</a> or <a href="http://codame.com/partners">partner</a>.</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer, we always need one more hand</li>
+          <li>Stand out with your 💟 of ART+TECH &amp; become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a>.</li>
         </mj-text>
         <mj-text>
           CODAME is fiscally sponsored as non-profit members of Intersection for the Arts, a 501(c)(3). All proceeds are split with participating artists.
@@ -196,12 +196,12 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="64%">
-        <mj-image align="left" width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
-      </mj-column>
-      <mj-column width="34%">
+      <mj-column width="100%">
         <mj-table>
           <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
             <td align="right"> <a href="https://twitter.com/codame">
                   <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
                 </a> </td>
