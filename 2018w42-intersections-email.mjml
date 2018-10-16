@@ -17,13 +17,6 @@
   <mj-body background-color="#3c043a">
     <mj-section padding-top="20px">
       <mj-column width="100%">
-        <mj-image 
-          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
-          width="190px"
-        ></mj-image>
-        <mj-text font-size="28px" align="center" line-height="45px">
-          INTERSECTIONS<br>Final Lineup, Discount Tickets, <br>and Volunteer Ops! 
-        </mj-text>
         <mj-image padding="0px" padding-top="20px" padding-bottom="20px"
           src="http://codame.com/uploaded_images/intersections.jpg" 
         ></mj-image>
@@ -104,7 +97,7 @@
         <mj-text 
           font-size="38px" 
           align="center"
-          line-height="1%"
+          line-height="110%"
           padding-top="15px"
           padding-bottom="15px"
         >
@@ -203,7 +196,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="65%">
+      <mj-column width="64%">
         <mj-image align="left" width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
       </mj-column>
       <mj-column width="35%">
