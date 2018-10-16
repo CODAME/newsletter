@@ -167,7 +167,7 @@
           CODAME is fiscally sponsored as non-profit members of Intersection for the Arts, a 501(c)(3). All proceeds are split with participating artists.
         </mj-text>
         <mj-text>
-          We love to hear from you. <a href="http://codame.com/pages/support-art-tech">Contact us</a> anytime even just to say hi! 
+          We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
         </mj-text>
         <mj-text padding-bottom="30px">
           Sincere thanks for sharing in love of ART+TECH 🙏 
@@ -189,6 +189,7 @@
           color="#917792"
         >
           This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
           <a href="[unsubscribe]">Unsubscribe</a> if you must ;)<br>
           <a href="[webversion]">Permalink</a> to a shareable web version<br>
         </mj-text>
