@@ -3,7 +3,7 @@
     <!-- subject
       『 intersections 』Sat Nov 3rd - Transform your iris into art. Reconfigure reality at the boundaries of XR. 
     -->
-    <mj-preview>Save 25% with RSVP today!</mj-preview>
+    <mj-preview>Save 50% with RSVP today!</mj-preview>
     <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
     <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
     <mj-attributes>
@@ -35,7 +35,7 @@
           San Francisco Art Institute, Fort Mason, San Francisco
         </mj-text>
         <mj-text align="center" font-size="18px">
-          Use code CODAME-FRIENDS for 25% off today!
+          Use code CODAME-STUDENTS for 50% off today!
         </mj-text>
         <mj-button 
           font-family="Asap, Helvetica, sans-serif" 
@@ -43,7 +43,7 @@
           font-size="20px" 
           background-color="#d6e6fa"
           padding-top="15px"
-          href="https://codame.eventbrite.com?aff=w44&amp;discount=CODAME-FRIENDS#tickets"
+          href="https://codame.eventbrite.com?aff=w44s&amp;discount=CODAME-STUDENTS#tickets"
         >
           Get Tickets
         </mj-button>
@@ -118,7 +118,7 @@
           font-size="20px" 
           background-color="#d6e6fa"
           padding-top="15px"
-          href="https://codame.eventbrite.com?aff=w44a&amp;discount=CODAME-FRIENDS#tickets"
+          href="https://codame.eventbrite.com?aff=w44s&amp;discount=CODAME-STUDENTS#tickets"
         >
            Get Tickets
         </mj-button>
@@ -143,7 +143,7 @@
           CODAME forms the future through inspiring experiences and playful ART+TECH projects. CODAME events, installations, and workshops connect people of all specialties and backgrounds. There are many ways to participate in the visionary celebration:
         </mj-text>
         <mj-text>
-          <li>Get your <a href="https://codame.eventbrite.com?aff=w42b&amp;discount=CODAME-FRIENDS#tickets">tickets</a> for the event</li>
+          <li>Get your <a href="https://codame.eventbrite.com?aff=w44s&amp;discount=CODAME-STUDENTS#tickets">tickets</a> for the event</li>
           <li>Invite your friends or your teammates</li>
           <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer, we always need one more hand</li>
           <li>Stand out with your 💟 of ART+TECH &amp; become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a>.</li>
