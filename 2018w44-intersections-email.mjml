@@ -1,0 +1,237 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      『 intersections 』Sat Nov 3rd - Transform your iris into art. Reconfigure reality at the boundaries of XR. 
+    -->
+    <mj-preview>Save 25% with RSVP today!</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+        ></mj-image>
+        <mj-image padding="0px" padding-top="20px" padding-bottom="20px"
+          src="http://codame.com/sendy/uploads/1540911349.jpg" 
+        ></mj-image>
+        <mj-text align="center" font-size="18px">
+          Installations, screenings, and performance art
+          <br>
+          Saturday, November 3rd, 2018, from 6pm to 10pm
+          <br>
+          San Francisco Art Institute, Fort Mason, San Francisco
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          Use code CODAME-FRIENDS for 25% off today!
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          href="https://codame.eventbrite.com?aff=w44&amp;discount=CODAME-FRIENDS#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#1d021d" padding-top="5px" padding-bottom="10px">
+      <mj-column width="100%">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0" padding-bottom="34px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image padding="0px" src="http://codame.com/sendy/uploads/1540911773.gif"></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          <a href="http://codame.com/projects/eyes">Eyes</a> by <a href="http://codame.com/artists/yoon-chung-han">Yoon Chung Han</a>
+        </mj-text>
+        <mj-text>
+          Question the “problem of disembodied identities’ in the digital era through the existence of audiovisual representations of individuals. Explore unique visuals and sounds encoded in your iris patterns. 
+        </mj-text>
+        <mj-text padding-bottom="15px">
+          Art and science have long collaborated for common purpose. Explore the surprising, inspiring, and challenging crossings which contour contemporary artistic landscapes. Play, experiment, and wander through curious new media!<br>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          href="http://codame.com/events/intersections"
+        >
+          Learn More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0" padding-bottom="34px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image padding="0px" src="http://codame.com/sendy/uploads/1540912607.jpg"></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          <a href="http://codame.com/projects/the-masking-machine">The Masking Machine</a> by <a href="http://codame.com/artists/blinkpopshift">BlinkPopShift</a>
+        </mj-text>
+        <mj-text>
+          Using sculpture, performance, costume, drawing, video, and wearable technology BlinkShiftPop mixes different modes of thought to rediscover the underlying ecosystems our taxonomies truncate and pin down.<br>  
+        </mj-text>
+        <mj-text padding-bottom="15px">
+          Join this bold, curious, and talented crew of artists, scientists, and technologists for an unforgettable cross-disciplinary evening as part of Leonardo/ISAST 50th year celebration of visionary collaboration between art and science.<br>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          href="https://codame.eventbrite.com?aff=w44a&amp;discount=CODAME-FRIENDS#tickets"
+        >
+           Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-text padding-bottom="10px">
+          CODAME forms the future through inspiring experiences and playful ART+TECH projects. CODAME events, installations, and workshops connect people of all specialties and backgrounds. There are many ways to participate in the visionary celebration:
+        </mj-text>
+        <mj-text>
+          <li>Get your <a href="https://codame.eventbrite.com?aff=w42b&amp;discount=CODAME-FRIENDS#tickets">tickets</a> for the event</li>
+          <li>Invite your friends or your teammates</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer, we always need one more hand</li>
+          <li>Stand out with your 💟 of ART+TECH &amp; become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a>.</li>
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees.<br>
+        </mj-text>
+        <mj-text>
+          CODAME is fiscally sponsored as non-profit members of Intersection for the Arts, a 501(c)(3). All proceeds are split with participating artists.
+        </mj-text>
+        <mj-text>
+          We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Sincere thanks for sharing in love of ART+TECH 🙏 
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>Your CODAME Team</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#917792" >
+      <mj-column>
+        <mj-text font-size="14px" color="#d6e6fa" align="center">
+          <p>Kudos to our forward thinking ART+TECH partners 👏</p> 
+        </mj-text>
+        <mj-table padding-top="0px">
+          <tr style="list-style: none;line-height:1">
+            <td align="center"> <a href="https://www.sfai.edu/?codame">
+                  <img width="100" src="http://codame.com/sendy/uploads/1540914930.png" />
+                </a> </td>
+            <td align="center"> <a href="https://www.leonardo.info/?CODAME">
+                  <img 
+                    width="120" 
+                    src="https://festival.codame.com/img/sendy/logos/leonardo-small.png" />
+                </a> </td>
+            <td align="center"> <a href="https://www.palacio.life/?codame">
+                  <img 
+                    width="100" 
+                    src="http://codame.com/sendy/uploads/1540914907.jpg" 
+                  />
+                </a> </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="14px" color="#d6e6fa" align="center">
+          <p>👾 <a style="color: #d6e6fa" href="http://codame.com/sponsors">Contact Us!</a> to support CODAME ART+TECH 👾</p> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="14px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
