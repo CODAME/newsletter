@@ -1,0 +1,172 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      2019 ART+TECH Festival 『 SPACE 』 Call For Proposals open now!
+    -->
+    <mj-preview>“We are not going to be able to operate our Spaceship Earth successfully nor for much longer unless we see it as a whole spaceship and our fate as common. It has to be everybody or nobody.” - Buckminster Fuller</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center" font-size="18px">
+          <br>
+          Announcing the annual <br><a href="http://codame.com/events/art-tech-festival-2019-space">CODAME ART+TECH Festival (2019)</a>
+        </mj-text>
+        <mj-image padding="0px" padding-top="20px" padding-bottom="20px"
+          src="http://codame.com/sendy/uploads/1550642554.jpg" 
+        ></mj-image>
+        <mj-text align="center" font-size="18px">
+          Where: San Francisco
+          <br>
+          When: Fall, 2019
+          <br>
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          RSVP:
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w08t#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#1d021d" padding-top="5px" padding-bottom="10px">
+      <mj-column width="100%">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0" padding-bottom="34px">
+      <mj-column width="100%" padding-top="20px" padding="0px" padding-left="40px" padding-right="40px">
+        <mj-text>
+          <b>Space is a canvas on which we write our stories, paint our dreams, and build our realities. </b>Space is a province of the known...and the unknown. As the film camera captured the transformation of the modern world, so, too, do emerging digital media point their lenses toward the future. Through art, as we architect space, we envision the future.
+        </mj-text>
+        <mj-text>
+          The 2019 CODAME ART+TECH Festival explores the many facets of space. How do technologies like virtual reality allow new ways of living, being, playing, and moving in space?
+        </mj-text>
+        <mj-text>
+          How might robotic prosthetics extend our bodies in space? How do radical mapping projects redefine our relationships to our world, and to each other?
+        </mj-text>
+        <mj-text>
+          In this exhibition, we aim to expand our space and transcend borders. CODAME encourages participation from international artists!
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          href="http://codame.com/pages/call-for-proposals"
+        >
+          Submit Your Proposal
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-text padding-bottom="10px">
+          CODAME shapes the future through inspiring experiences and playful ART+TECH projects. We produce events, installations, and workshops as an arts collective. CODAME splits all proceeds with participating artists. We operate as nonprofit members of Intersections for the Arts, a 501(c)(3).
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          There are many ways to support us:
+        </mj-text>
+        <mj-text>
+          <li>Get your <a href="http://codame.com/events/art-tech-festival-2019-space?aff=w08b">tickets</a> for the event</li>
+          <li>Invite your friends or your teammates</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer</li>
+          <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> for recognition as a champion of ART+TECH!</li>
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees.<br>
+        </mj-text>
+        <mj-text>
+          We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Thank you for supporting ART 💜TECH
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>Your CODAME Team</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="14px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
