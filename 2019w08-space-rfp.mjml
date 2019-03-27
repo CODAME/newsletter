@@ -33,7 +33,8 @@
         ></mj-image>
         <mj-text align="center" font-size="18px">
           Where: San Francisco
-          <br>
+        </mj-text>
+        <mj-text align="center" font-size="18px">
           When: Fall, 2019
           <br>
         </mj-text>
