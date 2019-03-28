@@ -1,0 +1,218 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      ART+TECH Festival 2019 『  S P  ▴  C E  』 Venue + Dates!
+    -->
+    <mj-preview>Plus "Making Magic Happen: Sponsorship Q+A" with ideas to get involed!</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+          padding-bottom="20px"
+        ></mj-image>
+        <mj-text>
+          Give your halloween costumes a test run at the annual CODAME ART+TECH Festival filled with inspiring experiences! We are thrilled to transform the Github community ground floor into a transdimensional space, with a convenient current continium access location in SoMa (2nd & Brannan)!
+        </mj-text>
+        <mj-image 
+          padding="0px" 
+          padding-top="20px" 
+          padding-bottom="20px"
+          src="http://codame.com/sendy/uploads/1553761618.jpg" 
+        ></mj-image>
+        <mj-text align="center" font-size="18px">
+          Where: Github, 88 Colin P Kelly Jr St
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          When: October 25th - 27th
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          What: Workshops and Nightlife
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          <br>
+          RSVP:
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w13t#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          Making Magic Happen
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="30px">
+        <mj-image padding="0px" href="https://medium.com/@codame/codame-art-tech-making-magic-happen-17146054376e" src="http://codame.com/sendy/uploads/1553761590.jpg"></mj-image>
+        <mj-text padding-bottom="10px">
+          <p>In this Q&A, volunteer Irene Malatesta chats with founders Bruno Fonzi and Jordan Gray (AKA @staRpauSe) about the sponsors who make events like the CODAME ART+TECH Festival possible. Learn how you can champion the benefits of ART+TECH inside your organization, big or small!</p>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"          
+          href="http://codame.com/pages/making-magic-happen-codame-sponsorship-q-a"
+        >
+          Read now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          ModBod Masterpieces
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%" padding-top="30px">
+        <mj-image padding="0px" href="https://medium.com/@codame/codame-art-tech-making-magic-happen-17146054376e" src="http://codame.com/sendy/uploads/1553761803.jpg"></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+           Derivative artwork by <a href="https://twitter.com/uconko/status/1098913088525414400">@uconko</a>
+        </mj-text>        
+        <mj-text padding-bottom="10px">
+          <p>Modbod is a next level photobooth. Visitors are 3d scanned and their likeness contributes to a catalog of over 700 models. The scans are Creative Commons By Attribution licensed, making them perfect for remix. Will you reuse them for training AI? Stylized renders? Video game assets? Interactive music "videos"?!</p>
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          <p>Submit your masterpiece to be shown in 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』or be the seed of something new by adding your immortal image at the ART+TECH Festival 2019!</p>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"
+          href="http://codame.com/projects/modbod"
+        >
+          Learn more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-text padding-bottom="10px">
+          CODAME shapes the future through inspiring experiences and playful ART+TECH projects. We produce events, installations, and workshops as an arts collective. CODAME splits all proceeds with participating artists. We operate as nonprofit members of Intersections for the Arts, a 501(c)(3).
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          There are many ways to support us:
+        </mj-text>
+        <mj-text>
+          <li>Get your <a href="http://codame.com/events/art-tech-festival-2019-space?aff=w08b">tickets</a> for the event</li>
+          <li>Invite your friends or your teammates</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer</li>
+          <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> for recognition as a champion of ART+TECH!</li>
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees.<br>
+        </mj-text>
+        <mj-text>
+          We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Thank you for supporting ART 💜TECH
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>Your CODAME Team</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="14px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
