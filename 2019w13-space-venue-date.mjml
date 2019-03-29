@@ -3,7 +3,7 @@
     <!-- subject
       ART+TECH Festival 2019 『  S P  ▴  C E  』 Venue + Dates!
     -->
-    <mj-preview>Plus "Making Magic Happen: Sponsorship Q+A" with ideas to get involed!</mj-preview>
+    <mj-preview>October 25th - 27th at Github in SoMa</mj-preview>
     <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
     <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
     <mj-attributes>
@@ -25,27 +25,45 @@
           width="190px"
           padding-bottom="20px"
         ></mj-image>
-        <mj-text>
-          Give your halloween costumes a test run at the annual CODAME ART+TECH Festival filled with inspiring experiences! We are thrilled to transform the Github community ground floor into a transdimensional space, with a convenient current continium access location in SoMa (2nd & Brannan)!
-        </mj-text>
         <mj-image 
           padding="0px" 
           padding-top="20px" 
           padding-bottom="20px"
           src="http://codame.com/sendy/uploads/1553761618.jpg" 
         ></mj-image>
-        <mj-text align="center" font-size="18px">
-          Where: Github, 88 Colin P Kelly Jr St
-        </mj-text>
-        <mj-text align="center" font-size="18px">
-          When: October 25th - 27th
-        </mj-text>
-        <mj-text align="center" font-size="18px">
-          What: Workshops and Nightlife
-        </mj-text>
-        <mj-text align="center" font-size="18px">
+
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          October 25th - 27th
           <br>
-          RSVP:
+        </mj-text>
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+        </mj-text>
+        <mj-text 
+          font-size="26px" 
+          align="center"
+        >
+          <i>@ Github
+        </mj-text> 
+        <mj-text 
+          font-size="26px" 
+          align="center"
+        >
+          <i>88 Colin P Kelly Jr St.
+        </mj-text> 
+
+
+        </mj-text>
+        <mj-text align="center" font-size="18px">
+          
+        </mj-text>
+        <mj-text font-size="18px">
+          Give your halloween costumes a test run at the annual CODAME ART+TECH Festival! We are thrilled to transform the Github community ground floor into a <i>trænsvektor 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』</i>, with a <i>convenient current continium</i> access location in SoMa (2nd & Brannan). Expect a full schedule of playful workshops and inspiring nightlife!
         </mj-text>
         <mj-button 
           font-family="Asap, Helvetica, sans-serif" 
@@ -87,7 +105,7 @@
           font-size="20px" 
           background-color="#d6e6fa"
           padding-top="15px"
-          padding-bottom="30px"          
+          padding-bottom="45px"          
           href="http://codame.com/pages/making-magic-happen-codame-sponsorship-q-a"
         >
           Read now
@@ -108,7 +126,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="100%" padding-top="30px">
-        <mj-image padding="0px" href="https://medium.com/@codame/codame-art-tech-making-magic-happen-17146054376e" src="http://codame.com/sendy/uploads/1553761803.jpg"></mj-image>
+        <mj-image padding="0px" src="http://codame.com/sendy/uploads/1553761803.jpg"></mj-image>
         <mj-text 
           padding="24px 100px 10px"
           font-style="italic"
@@ -117,7 +135,7 @@
            Derivative artwork by <a href="https://twitter.com/uconko/status/1098913088525414400">@uconko</a>
         </mj-text>        
         <mj-text padding-bottom="10px">
-          <p>Modbod is a next level photobooth. Visitors are 3d scanned and their likeness contributes to a catalog of over 700 models. The scans are Creative Commons By Attribution licensed, making them perfect for remix. Will you reuse them for training AI? Stylized renders? Video game assets? Interactive music "videos"?!</p>
+          <p>Modbod is a dimensional photobooth. Visitors are 3d scanned and their likeness contributes to a catalog of over 700 models. The scans are Creative Commons By Attribution licensed, making them perfect for remix. Will you reuse them for training AI? Stylized renders? Video game assets? Interactive music "videos"?!</p>
         </mj-text>
         <mj-text padding-bottom="10px">
           <p>Submit your masterpiece to be shown in 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』or be the seed of something new by adding your immortal image at the ART+TECH Festival 2019!</p>
@@ -158,10 +176,9 @@
           There are many ways to support us:
         </mj-text>
         <mj-text>
-          <li>Get your <a href="http://codame.com/events/art-tech-festival-2019-space?aff=w08b">tickets</a> for the event</li>
-          <li>Invite your friends or your teammates</li>
+          <li>Get your <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w13b#tickets">tickets</a> for the event</li>
           <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer</li>
-          <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> for recognition as a champion of ART+TECH!</li>
+          <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> to energize your team!</li>
         </mj-text>
         <mj-text>
           <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees.<br>
@@ -170,9 +187,9 @@
           We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
         </mj-text>
         <mj-text padding-bottom="30px">
-          Thank you for supporting ART 💜TECH
+          Thank you for supporting ART 💜TECH,
           <br>
-          <i><a href="http://codame.com/pages/about"><i>Your CODAME Team</i></a></i>
+          <i><a href="http://codame.com/pages/about"><i>The Codame Crew</i></a></i>
         </mj-text>
       </mj-column>
     </mj-section>
