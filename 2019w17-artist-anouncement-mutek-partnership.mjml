@@ -1,0 +1,340 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      ART+TECH Festival 2019 『  S P  ▴  C E  』Artist announcements & MUTEK partnership
+    -->
+    <mj-preview>“I’m not saying get rid of those twelve notes. I love what music has done and what it will be. But as a musician who is concerned about music, I say, what’s beyond those twelve notes?” ― Ytasha L. Womack</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+          padding-bottom="20px"
+        ></mj-image>
+        <mj-image 
+          padding="0px" 
+          padding-top="20px" 
+          padding-bottom="20px"
+          src="http://codame.com/sendy/uploads/1553761618.jpg" 
+        ></mj-image>
+
+        <mj-text 
+          font-size="18px"
+          font-style="italic"
+          align="center"
+        >
+          <i>“I’m not saying get rid of those twelve notes. I love what music has done and what it will be. But as a musician who is concerned about music, I say, what’s beyond those twelve notes?”</i> ― Ytasha L. Womack
+        </mj-text>
+        <mj-text font-size="14px">
+          What technologies will allow new ways of living, being, playing, and moving in space? Join us in writing stories, painting dreams, and building realities of SPACE!
+        </mj-text>
+
+        <mj-text font-size="16px">
+          When: <b>October 25th - 27th</b>
+        </mj-text>
+        <mj-text font-size="16px">
+          Where: <b>Github, 88 Colin P Kelly Jr St, San Francisco</b>
+        </mj-text>
+        <mj-text font-size="16px">
+          What: <b>Workshops and Nightlife</b>
+        </mj-text>
+        <mj-text></mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w17t#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="12px"
+          padding="0px 100px 0px"
+          align="center"
+        >
+          Welcoming to 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』
+        </mj-text>
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          Manu Luksch
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="30px">
+        <mj-image 
+          padding="0"
+          height="px"
+          src="http://codame.com/sendy/uploads/1556591499.jpg"
+        ></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          Featured CODAME Artist <a href="http://codame.com/artists/manu-luksch">Manu Luksch</a>
+        </mj-text>
+        <mj-text>
+          Over the past 20 years, Manu Luksch has been researching the effects of emerging technologies on daily life, social relations, urban space, and political structures. Luksch presents her findings through film and intermedia art, and by creating tools for other citizens. 
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="45px"          
+          href="http://codame.com/artists/manu-luksch"
+        >
+          Learn more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="12px"
+          padding="0px 100px 0px"
+          align="center"
+        >
+          Welcoming to 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』
+        </mj-text>
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          Refik Anadol
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="30px">
+        <mj-image padding="0px" src="http://codame.com/uploaded_images/refik-anadol.jpg"></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          Featured CODAME Artist <a href="http://codame.com/artists/refik-anadol">Refik Anadol</a>
+        </mj-text>
+        <mj-text>
+          Refik Anadol builds his works on the nomadic subject’s reaction to and interactions with unconventional spatial orientations with data and machine intelligence. Embedding media arts into architecture, he questions the possibility of a post digital architectural future in which there are no more non-digital realities.
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="45px"          
+          href="http://codame.com/artists/refik-anadol"
+        >
+          Learn more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          Call for Workshops 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-image padding="0px" src="http://codame.com/sendy/uploads/1556638594.jpg"></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          <a href="http://codame.com/events/workshop-spatial-audio">Spatial Audio Workshop</a> at 2018 ART+TECH Festival
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          Do you have a project or skill to share? Is your company looking to push the boundries of a product or platform? We have several workshop opportunities around ART+TECH Festival 2019. 
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          Get involved at any level! Tell us a workshop you want to take, give, or sponsor. All mediums and formats up for exploration, lets fill 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』 with AI, music, fabrication, XR/AR/VR, fashion tech, and more 💭
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="45px"          
+          href="http://codame.com/pages/call-for-proposals"
+        >
+          Propose workshop
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+          line-height="1.3em"
+        >
+          CODAME Featured <br>Artists at MUTEK
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-image padding="0px" src="http://codame.com/uploaded_images/mutek-sf.jpg"></mj-image>
+        <mj-text padding-bottom="10px" padding-top="20px">
+          Can't wait until October for our『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』festival? If your ART+TECH senses have been tingling, throw some music into the mix and you’ve got yourself a multimedia party at Mutek’s events happening all this week. 
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          You can find CODAME featured artist <a href="http://codame.com/artists/marpi">Marpi</a> Friday, May 3 for MUTEK.SF Nocturne 1 at 1015 Folsom + <a href="http://codame.com/artists/yagmur-uyanik">Yagmur Uyanik</a>, <a href="http://codame.com/artists/Joey-Verbeke">Joey Verbeke</a> and <a href="http://codame.com/artists/jeffrey-bryant">Jeffrey-bryant</a> (aka ecco screen)  May 5th for the MUTEK.SF Experience at the Midway.  Use promo code <b>MUTEKxCODAME</b> for a 10% discount. 👀 you there!
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="45px"          
+          href="http://codame.com/events/codame-featured-artists-mutek-sf"
+        >
+          Learn more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-text padding-bottom="10px">
+          CODAME shapes the future through inspiring experiences and playful ART+TECH projects. We produce events, installations, and workshops as an arts collective. CODAME splits all proceeds with participating artists. We operate as nonprofit members of Intersections for the Arts, a 501(c)(3).
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          There are many ways to support us:
+        </mj-text>
+        <mj-text>
+          <li>Get your <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w13b#tickets">tickets</a> for the event</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer</li>
+          <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> to energize your team!</li>
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees.<br>
+        </mj-text>
+        <mj-text>
+          We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Thank you for supporting ART 💜TECH,
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>The Codame Crew</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="14px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
