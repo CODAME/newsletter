@@ -1,0 +1,312 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      『  S P  ▴  C E  』Data Visualization Workshop with James Proctor /+/ feature on Clea T. Waite 
+    -->
+    <mj-preview>/+/ Volunteer opportunities if you share our passion for ART+TECH!</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#d6e6fa" line-height="24px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+          padding-bottom="20px"
+        ></mj-image>
+        <mj-image 
+          padding="0px" 
+          padding-top="20px" 
+          padding-bottom="20px"
+          src="http://codame.com/sendy/uploads/1553761618.jpg" 
+        ></mj-image>
+
+        <mj-text font-size="16px">
+          What technologies will allow new ways of living, being, playing, and moving in space? Join us in writing stories, painting dreams, and building realities of SPACE.
+        </mj-text>
+
+        <mj-text font-size="18px" align="center">
+          <b>Workshops and Nightlife!</b>
+        </mj-text>
+        <mj-text font-size="18px" align="center">
+          <b>October 25th - 27th</b>
+        </mj-text>
+        <mj-text font-size="18px" align="center">
+          <b>San Francisco</b>
+        </mj-text>
+        <mj-text></mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          padding-bottom="30px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w33&l=t#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Workshop: Data Visualization<br>
+        </mj-text>
+        <mj-text 
+          font-size="24px" 
+          align="center"
+        >
+          Tracing the Patterns Around Us<br>with James Proctor
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image 
+          padding="0px" 
+          src="http://codame.com/uploaded_images/workshop-data-visualization.jpg"
+        ></mj-image>
+        <mj-text>Data visualization is an important tool for describing and understanding our world, selves, and time. By asking questions, observing, and thinking critically we can distill powerful truths from massive data sets.</mj-text>
+        <mj-text padding-bottom="10px">
+          <ul>
+            <li>Hands-on guided tour of the complete data visualization process.</li>
+            <li>Identifying questions of interest, collect data from observation, and analyze what we find.</li>
+            <li>Understand ethical and practical challenges in data collection and visualization.</li>
+            <li>Tell a story or express your view, all participates will be encouraged to share their work at ART+TECH Festival 2019『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』</li>
+            <li>No prior technical or writing skills required. Bring your own charged laptop.</li>
+          </ul>
+        </mj-text>
+
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="0px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=w33&l=w#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="16px"
+          padding="0px 100px 0px"
+          align="center"
+        >
+          Welcoming to <br>ART+TECH Festival 2019『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』
+        </mj-text>
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          Clea T. Waite
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="30px">
+        <mj-image 
+          padding="0"
+          src="http://codame.com/sendy/uploads/1565678412.jpg"
+        ></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          Featured CODAME Artist <a href="http://codame.com/artists/clea-t-waite">Clea T. Waite</a>
+        </mj-text>
+        <mj-text>
+          Clea T. Waite creates immersive, cinematic works engaging embodied perception, dynamic composition, and sensual interfaces – as well as one inter-species collaboration with several hundred tropical spiders.
+        </mj-text>
+        <mj-text>
+          At 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』 you can experience <a href="http://codame.com/projects/ice-time">Ice-Time</a>, her most recent project. The large scale installation elicits poetics contained within frozen water as revealed by current climate research.
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="10px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=w33&l=a#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+          line-height="110%"
+          padding-top="15px"
+          padding-bottom="15px"
+        >
+          Volunteer Opportunities 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0" padding-bottom="34px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image padding="0px" src="http://codame.com/uploaded_images/call-for-volunteers.jpeg"></mj-image>
+        <mj-text 
+          padding="24px 100px 10px"
+          font-style="italic"
+          align="center"
+        >
+          All skillsets, strengths <br>and levels of commitment are welcome!
+        </mj-text>
+        <mj-text>
+          Building CODAME events is a fun and rewarding experience that has fueled us since 2010. When you become part of the crew you'll meet like-minded people, build experience, and pass on knowledge.
+        </mj-text>
+        <mj-text>
+          <li>Work closely with artists as our <b>Associate Curator</b></li>
+          <li>Unlesh new possabilities for your peers as our <b>Workshop Manager</b></li>
+          <li>Multiply your friendly energy as our <b>Volunteer Director</b></li>
+        </mj-text>
+        <mj-text>
+          If you're more interested in getting hands on at the event, we have several more roles to fill for October 25th and the surrounding dates. Set the stage or tear it down from behind the scenes. Manage or emcee the stage if you prefer the lime light. Be a hollywood buster or run an installation to interact with the crowd up close. <b>Or maybe you have another idea you'd like to share. We're always excited to try something new!</b>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="15px"
+          href="http://codame.com/pages/call-for-volunteers"
+        >
+          Join Us
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="15px">
+        <mj-text padding-bottom="10px">
+          CODAME shapes the future through inspiring experiences and playful ART+TECH projects. We produce events, installations, and workshops as an arts collective. CODAME splits all proceeds with participating artists. We operate as nonprofit members of Intersections for the Arts, a 501(c)(3).
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          There are many ways to support us:
+        </mj-text>
+        <mj-text>
+          <li>Get your <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w32#tickets">tickets</a> for the event</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> as a volunteer</li>
+          <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> to energize your team!</li>
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees.<br>
+        </mj-text>
+        <mj-text>
+          We love to hear from you. <a href="mailto:events@codame.com">Contact us</a> anytime even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Thank you for supporting ART 💜TECH,
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>The Codame Crew</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="14px" 
+          font-style="italic"
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
