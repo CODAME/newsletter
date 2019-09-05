@@ -32,7 +32,7 @@
           Join to learn more about new programs and projects with the Artists, Partners, and Volunteers making CODAME ART+TECH 2019 Festival 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』. 
         </mj-text>
         <mj-text>
-          <li>Lightning talks by this years featured artists.</li>
+          <li>Lightning talks by this year's featured artists.</li>
           <li>Partners will share highlights from their unique CODAME collaboration experiences. </li>
           <li>Break out to group working sessions around new opportunities. Or relax and chat =]
         </mj-text>
@@ -72,7 +72,7 @@
           font-size="18px" 
           align="center"
         >
-          <i>Dilation Techniques with Virgil Widrich</i>
+          <a href="http://codame.com/events/workshop-time-bending-media">Dilation Techniques with Virgil Widrich</a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -86,6 +86,9 @@
         <mj-text>Join award-winning Austrian film director, filmmaker, professor, and multimedia artist Virgil Widrich in a workshop on the time-dilating “tx-transform” technique.  </mj-text>
         <mj-text>Normally, each individual film frame represents the entire space, but only a brief moment of time (1/24 second). In the case of tx-transformed films, the opposite is true. Each film frame shows the entire time, but only a tiny part of the space. </mj-text>
         <mj-text>Workshop participants will work collectively with the internationally known artist using a camera, motion control, computer, and special software environment. All participants will receive a link to download the filmed material themselves. No special equipment is required. </mj-text>
+        <mj-text align="center">
+          <b>Saturday October 26th<br>Github, 88 Colin P Kelly Jr St, SF, CA
+        </mj-text>
         <mj-button 
           font-family="Asap, Helvetica, sans-serif" 
           color="#1d021d" 
@@ -173,7 +176,7 @@
           CODAME operates as nonprofit members of Intersections for the Arts, a 501(c)(3). All proceeds are split with participating artists. There are many ways to support us:
         </mj-text>
         <mj-text>
-          <li>Get your <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w32#tickets">tickets</a> for the event. Group buys are a great way to energize your team!</li>
+          <li>Get your <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w34&l=a#tickets">tickets</a> for the event. Group buys are a great way to energize your team!</li>
           <li>Become a <a href="http://codame.com/pages/support-art-tech">sponsor or partner</a> to position yourself as an industry leader.</li>
           <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> for a rewarding volunteer experience.</li>
         </mj-text>
