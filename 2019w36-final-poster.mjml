@@ -149,8 +149,6 @@
     <mj-section background-color="#3c043a" padding-top="20px">
     </mj-section>
     <mj-section background-color="#1d021d" padding="0" padding-bottom="20px">
-      <mj-column width="100%" padding-top="20px" padding="0px">
-    <mj-section background-color="#1d021d">
       <mj-column width="100%" padding-top="20px" padding-bottom="20px">
         <mj-text 
           font-size="40px" 
@@ -160,9 +158,8 @@
           Before 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』 <br>
         </mj-text>
       </mj-column>
-    </mj-section>
 
-
+      <mj-column>
         <mj-image padding="0px" padding-bottom="10px" src="http://codame.com/sendy/uploads/1566280785.jpg"></mj-image>
         <mj-text>
           Join to learn more about new programs and projects with the Artists, Partners, and Volunteers making CODAME ART+TECH 2019 Festival 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』. 
@@ -240,14 +237,13 @@
     <mj-section>
       <mj-column>
         <mj-text 
-          font-size="14px" 
-          font-style="italic"
+          font-size="16px" 
           padding-bottom="0px" 
           align="center"
           color="#917792"
         >
-          This email was lovingly hacked together by CODAME Ninjas!<br>
-          IFTA (c/o CODAME), 901 Mission Street, Suite 306, SF, CA 94103<br>
+          <i>This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 1446 Market Street, SF, CA 94102<br></i>
           <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
         </mj-text>
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>

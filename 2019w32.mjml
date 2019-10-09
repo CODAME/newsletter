@@ -185,7 +185,6 @@
       <mj-column width="100%" padding-top="30px">
         <mj-image 
           padding="0"
-          height="px"
           src="http://codame.com/uploaded_images/jiabao-li.jpg"
         ></mj-image>
         <mj-text 

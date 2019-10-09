@@ -1,0 +1,347 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      『  S P  ▴  C E  』 Performance Schedule published for opening and closing nights!
+    -->
+    <!--
+      『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』
+    -->
+    <mj-preview>Plus details on Jasmine Roberts's Immersive XR Journeys workshop (Unity for artists)</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="20px" color="#d6e6fa" line-height="25px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+
+  <!-- ---------------------------------------------------------------------- -->
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="https://festival.codame.com/img/sendy/Codame_Logo_Ice_Blue_web.png" 
+          width="190px"
+          padding-bottom="20px"
+        ></mj-image>
+        <mj-image 
+          padding="0px" 
+          padding-top="20px" 
+          padding-bottom="20px"
+          src="http://codame.com/uploaded_images/space-9-1567482627.jpg" 
+        ></mj-image>
+        <mj-text font-size="18px">
+          Snap up your Nightlife tickets now to avoid the line at our opening on Friday, October 25th! Weekend before Halloween, see you in style!
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="20px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w32#tickets"
+        >
+          Get Tickets
+        </mj-button>
+        <mj-text font-size="18px">
+          If you missed the link to print your own poster to hype 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』 around work and home, we got you! <a href="https://drive.google.com/file/d/1uvkRbjTzuUZn1FqQzgWMphHvIUM9T8wG/view?usp=sharing">16mb png</a> + <a href="https://drive.google.com/file/d/1_jFVqZcYKOftIcomcBYgi-d4EL6t5I3_/view?usp=sharing">1.3mb jpg</a> versions 💾 Or maybe you prefer... <a href="https://drive.google.com/open?id=1MRR8hPBF3WXDa_UCOlDJA2jk2fIl6WT-">squares</a>?!
+        </mj-text>
+        <mj-text font-size="18px" align="center"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="30px">
+    </mj-section>
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="23px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Performance Program
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image 
+          padding="0px" 
+          padding-bottom="20px"
+          padding-top="20px"          
+          src="http://codame.com/sendy/uploads/1570553680.gif"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="600px"  padding="0px">  
+        <mj-text 
+          font-size="20px" 
+          align="center"
+          line-height="100%"
+          padding-bottom="20px"
+        >
+          <i>Schedule is the same for <br>Friday opening and <br>Saturday closing nightlifes
+        </mj-text>
+          <mj-table align="center" width=400px font-weight="300" font-size="16px" color="#d6e6fa" line-height="25px">
+            <tr style="border-bottom:1px solid #d6e6fa;text-align:left;padding:20px 0;">
+              <th style="padding: 0 15px 0 0;">Time</th>
+              <th style="padding: 0 15px;">Performance</th>
+              <th style="padding: 0 15px;">Artist</th>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">6:00pm</td>
+              <td style="padding: 0 15px;">Doors Open</td>
+            </tr>
+            <tr style="background-color: #000000;">
+              <td style="padding: 0 15px 0 0;">8:30pm</td>
+              <td style="padding: 0 15px;">Barim</td>
+              <td style="padding: 0 15px;">Jihee Hwang</td>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">9:00pm</td>
+              <td style="padding: 0 15px;">Illusion</td>
+              <td style="padding: 0 15px;">Haein Kang</td>
+            </tr>
+            <tr style="background-color: #000000;">
+              <td style="padding: 0 15px 0 0;">9:30pm</td>
+              <td style="padding: 0 15px;">Arubina</td>
+              <td style="padding: 0 15px;">Catie Cuan</td>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">10:00pm</td>
+              <td style="padding: 0 15px;">Skin</td>
+              <td style="padding: 0 15px;">Axel Cuevas Santamaria</td>
+            </tr>
+            <tr style="background-color: #000000;">
+              <td style="padding: 0 15px 0 0;">10:30pm</td>
+              <td style="padding: 0 15px;">In Real Light</td>
+              <td style="padding: 0 15px;">d0n.xyz</td>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">11:00pm</td>
+              <td style="padding: 0 15px;">Curtains Close</td>
+            </tr>
+          </mj-table>
+  
+        <mj-text align="center">
+          <b>Friday October 25th and <br>Saturday October 26th </b><br><br>Github, 88 Colin P Kelly Jr St, SF, CA
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="18px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=w41&l=p#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Workshop: <br>Immersive XR Journeys
+        </mj-text>
+        <mj-text 
+          font-size="23px" 
+          align="center"
+          line-height="100%"
+        >
+          <i>Unity for artists with<br>
+          Jasmine Roberts</i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image 
+          padding="0px" 
+          padding-bottom="20px"
+          src="http://codame.com/uploaded_images/workshop-demystifying-xr-development.jpg"
+        ></mj-image>
+        <mj-text>
+          Join creative technologist <a href="http://codame.com/artists/jasmine-roberts">Jasmine Roberts</a> to learn Unity Engine, used in 80% of AR/MR/VR projects. You'll explore concepts like scale and haptic interaction to build surreal immersive environments. Then using OpenXR you'll eaesily port your interactive creation to different headsets and devices. 
+        </mj-text>
+        <mj-text>
+          Attendees can also have themselves 3d scanned and learn how to import themselves into Unity! Using provided shaders and scripts, you'll learn how to customize your selfie sculpture. 
+        </mj-text>
+        <mj-text>
+          Participants will need their own computer with any version of Unity (including free <a href="https://store.unity.com/products/unity-personal">Unity Personal</a>).
+        </mj-text>
+        <mj-text align="center">
+          <b>Saturday October 26th</b><br>2:00pm - 4:30pm<br><b>Github, 88 Colin P Kelly Jr St, SF, CA</b>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="18px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=w41&l=w#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Galaxy Explorer
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image 
+          padding="0px" 
+          padding-bottom="20px"
+          src="http://codame.com/uploaded_images/hololens-galaxy-explorer.jpg"
+        ></mj-image>
+        <mj-text>
+          The Garage @ Microsoft invited the XR community to share their ideas, decide on a single application, and <a href="https://docs.microsoft.com/en-us/windows/mixed-reality/galaxy-explorer">watch a team build it</a>. Now Galaxy Explorer is ready! 
+        </mj-text>
+        <mj-text>
+          Experience the Galaxy Explorer and its billions of stars on HoloLens at 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』nightlife Oct 25 + 26! If you want to nerd out in advance, <a href="http://codame.com/projects/hololens-galaxy-explorer">learn more</a> about the open source XR app 🤓
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="18px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="30px"
+          href="https://codame.eventbrite.com?aff=w41&l=s#tickets"
+        >
+          Get Tickets
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text padding-bottom="10px">
+          CODAME shapes the future through playful ART+TECH projects. We produce events, installations, and workshops to inspire people from all walks of life.
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          CODAME operates as nonprofit members of Intersections for the Arts, a 501(c)(3). All proceeds are split with participating artists. There are many ways to support us:
+        </mj-text>
+        <mj-text>
+          <li>Advocate for ART+TECH! If you work with or on a group that could use inspiration or celebration, expense a group buy of nightlife tickets (write us for a deal).</li>
+          <li><a href="http://codame.com/pages/support-art-tech">Sponsoring</a> CODAME ART+TECH will positiong your group or company as industry leaders. No ammount is too small, in-kind partnerships are also appreciated!</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> for a rewarding volunteer experience.</li>
+          <li>Student, teachers, or others in need of scholorship should reach out to explore options to be included!
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees and events.<br>
+        </mj-text>
+        <mj-text>
+          <a href="mailto:events@codame.com">Contact us</a> anytime, even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Thank you for supporting ART 💜TECH,
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>The Codame Crew</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="16px" 
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          <i>This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 1446 Market Street, SF, CA 94102<br></i>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="https://festival.codame.com/img/sendy/Codame_Badge_Logo_08_white_web.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
