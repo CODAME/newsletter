@@ -1,0 +1,361 @@
+<mjml>
+  <mj-head>
+    <!-- subject
+      You can take 2 different workshops at『  S P  ▴  C E  』 ART+TECH Festival 2019!
+    -->
+    <!--
+      『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』
+    -->
+    <mj-preview>Use CODAME-INSPIRE for a 30% discount 🤓</mj-preview>
+    <mj-font name="Signika" href="https://fonts.googleapis.com/css?family=Signika:300"></mj-font>
+    <mj-font name="Asap" href="https://fonts.googleapis.com/css?family=Asap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Signika, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="20px" color="#d6e6fa" line-height="25px"></mj-text>
+      <mj-section padding="0px" background-color="#1d021d"></mj-section>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a{
+        color: #b87fc9;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#3c043a">
+
+  <!-- ---------------------------------------------------------------------- -->
+    <mj-section padding-top="20px">
+      <mj-column width="100%">
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571151158.png" 
+          width="190px"
+          padding-bottom="20px"
+        ></mj-image>
+        <mj-image 
+          padding="0px" 
+          padding-top="20px" 
+          padding-bottom="20px"
+          src="http://codame.com/uploaded_images/space-9-1567482627.jpg" 
+        ></mj-image>
+        <mj-text font-size="18px">
+          High level schedule of the upcoming ART+TECH Festival 2019!          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="600px"  padding="0px">  
+          <mj-table align="center" width=400px font-weight="300" font-size="16px" color="#d6e6fa" line-height="25px">
+            <tr style="border-bottom:1px solid #d6e6fa;text-align:left;padding:20px 0;">
+              <th style="padding: 0 15px 0 0;">Day</th>
+              <th style="padding: 0 15px;">Time</th>
+              <th style="padding: 0 15px;">Activity</th>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">Fri Oct 25</td>
+              <td style="padding: 0 15px;">6pm - 11pm</td>
+              <td style="padding: 0 15px;">Nightlife</td>
+            </tr>
+            <tr style="background-color: #000000;">
+              <td style="padding: 0 15px 0 0;">Sat Oct 26</td>
+              <td style="padding: 0 15px;">10am - 2pm</td>
+              <td style="padding: 0 15px;">Morning Workshops</td>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">Sat Oct 26</td>
+              <td style="padding: 0 15px;">2pm - 5pm</td>
+              <td style="padding: 0 15px;">Afternoon Workshops</td>
+            </tr>
+            <tr style="background-color: #000000;">
+              <td style="padding: 0 15px 0 0;">Sat Oct 26</td>
+              <td style="padding: 0 15px;">6pm - 11pm</td>
+              <td style="padding: 0 15px;">Nightlife</td>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0;">Sun Oct 27</td>
+              <td style="padding: 0 15px;">1pm - 3pm</td>
+              <td style="padding: 0 15px;">Salon</td>
+            </tr>
+          </mj-table>  
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="18px">
+          Workshop seats are limited ⌛️<br><br>Register today with <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w42&discount=CODAME-INSPIRE#tickets">CODAME-INSPIRE</a> for a 30% discount!
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="20px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w42&discount=CODAME-INSPIRE#tickets"
+        >
+          Get Tickets
+        </mj-button>
+        <mj-text font-size="18px" align="center"></mj-text>
+      </mj-column>
+    </mj-section>
+  <mj-section background-color="#3c043a" padding-top="30px">
+  </mj-section>
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="23px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Morning Workshops<br>
+          Saturday 10am - 2pm
+        </mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571155850.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-time-bending-media">Time & Space Warping Film<br> with Virgil Widrich - Visiting from Austria!</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571154188.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-data-visualization">Create Data Visualizations<br> with James Proctor</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571155661.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-sound-space-music">Compose Music in Ableton<br> with Moldover</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-image 
+          src="http://codame.com/uploaded_images/gary-boodhoo-small.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-make-art-with-ai">Use AI to Make Art<br> with Gary Boodhoo</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-text font-size="18px" align="center">
+          <i>Workshop seats are limited ⌛️<br>Register today with <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w42&discount=CODAME-INSPIRE#tickets">CODAME-INSPIRE</a> for a 30% discount!</i>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="20px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w42&discount=CODAME-INSPIRE#tickets"
+        >
+          Get Tickets
+        </mj-button>
+        <mj-text font-size="18px" align="center"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="23px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Afternoon Workshops<br>
+          Saturday 2pm - 5pm
+        </mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571156300.jpg"
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-immersive-xr-journeys">Create VR in Unity with<br>Jasmine Roberts - Visiting from NYC!</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571156485.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-augmented-reality-art">Create Layers of AR for Physical Art<br>with Sergiu Ardelean</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571156671.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-science-through-story">Explain Complexity Using Storytelling Techniques<br> with Sara Elshafie</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-image 
+          src="http://codame.com/sendy/uploads/1571156990.jpg" 
+          width="190px"
+        ></mj-image>
+        <mj-text align="center"><a href="http://codame.com/events/workshop-360-sketching">Turn Drawings Into Virtual Environments<br> with Michael Scherotter</a></mj-text>
+        <mj-text></mj-text>
+        <mj-text></mj-text>
+        <mj-text font-size="18px" align="center">
+          <i>Workshop seats are limited ⌛️<br>Register today with <a href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w42&discount=CODAME-INSPIRE#tickets">CODAME-INSPIRE</a> for a 30% discount!</i>
+        </mj-text>
+        <mj-button 
+          font-family="Asap, Helvetica, sans-serif" 
+          color="#1d021d" 
+          font-size="20px" 
+          background-color="#d6e6fa"
+          padding-top="20px"
+          padding-bottom="20px"
+          href="https://www.eventbrite.com/e/arttech-festival-2019-space-tickets-56390135413?aff=w42&discount=CODAME-INSPIRE#tickets"
+        >
+          Get Tickets
+        </mj-button>
+        <mj-text font-size="18px" align="center"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="40px" 
+          align="center"
+          line-height="100%"
+        >
+          Print a Poster!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d" padding="0px">
+      <mj-column width="100%" padding-top="20px" padding="0px">
+        <mj-image 
+          padding="0px" 
+          padding-bottom="20px"
+          src="http://codame.com/sendy/uploads/1571152793.jpg"
+        ></mj-image>
+        <mj-text font-size="18px">
+          Join the CODAME Street Team and show off your good taste around the office! Print your own poster  featuring art by <a href="http://codame.com/artists/refik-anadol">Refik Anadol</a> to get excited for ART+TECH Festival 2019 『&nbsp;&nbsp;S&nbsp;P&nbsp;&nbsp;▴&nbsp;&nbsp;C&nbsp;E&nbsp;&nbsp;』 
+          <br><br>
+          Download <a href="https://drive.google.com/file/d/1uvkRbjTzuUZn1FqQzgWMphHvIUM9T8wG/view?usp=sharing">16mb png</a> + <a href="https://drive.google.com/file/d/1_jFVqZcYKOftIcomcBYgi-d4EL6t5I3_/view?usp=sharing">1.3mb jpg</a> versions of the poster. These look extra sharp when combined with an <a href="https://www.amazon.com/MCS-11x17-Format-Frame-40962/dp/B00AWGIF4A/ref=sr_1_1_sspa?keywords=11x17+poster+frame&qid=1571152518&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWjdSUjE5M1EwODIxJmVuY3J5cHRlZElkPUEwNDE0MzMyMUg3WElPUjJRNzRGJmVuY3J5cHRlZEFkSWQ9QTA3MzE4NDY1NDRPNVFLRVYwQTUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">11x17 frame<a> 🤓
+        </mj-text>
+        </mj-text>
+        <mj-text>
+Or maybe you prefer... 🖼 <a href="https://drive.google.com/open?id=1MRR8hPBF3WXDa_UCOlDJA2jk2fIl6WT-">square for social sharing</a>?! 
+        </mj-text>
+        <mj-text font-size="18px" align="center"></mj-text>
+              </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+
+
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text 
+          font-size="38px" 
+          align="center"
+        >
+          About CODAME
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1d021d">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text padding-bottom="10px">
+          CODAME shapes the future through playful ART+TECH projects. We produce events, installations, and workshops to inspire people from all walks of life.
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          CODAME operates as nonprofit members of Intersections for the Arts, a 501(c)(3). All proceeds are split with participating artists. There are many ways to support us:
+        </mj-text>
+        <mj-text>
+          <li>Advocate for ART+TECH! If you work with or on a group that could use inspiration or celebration, expense a group buy of nightlife tickets (write us for a deal).</li>
+          <li><a href="http://codame.com/pages/support-art-tech">Sponsoring</a> CODAME ART+TECH will positiong your group or company as industry leaders. No ammount is too small, in-kind partnerships are also appreciated!</li>
+          <li><a href="http://codame.com/pages/call-for-volunteers">Join us</a> for a rewarding volunteer experience.</li>
+          <li>Student, teachers, or others in need of scholorship should reach out to explore options to be included!
+        </mj-text>
+        <mj-text>
+          <a href="http://codame.com/pages/code-of-conduct">Code of Conduct</a> for all attendees and events.<br>
+        </mj-text>
+        <mj-text>
+          <a href="mailto:events@codame.com">Contact us</a> anytime, even just to say hi! 
+        </mj-text>
+        <mj-text padding-bottom="30px">
+          Thank you for supporting ART 💜TECH,
+          <br>
+          <i><a href="http://codame.com/pages/about"><i>The Codame Crew</i></a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3c043a" padding-top="20px">
+    </mj-section>
+
+<!-- ---------------------------------------------------------------------- -->
+    <mj-section>
+      <mj-column>
+        <mj-text 
+          font-size="16px" 
+          padding-bottom="0px" 
+          align="center"
+          color="#917792"
+        >
+          <i>This email was lovingly hacked together by CODAME Ninjas!<br>
+          IFTA (c/o CODAME), 1446 Market Street, SF, CA 94102<br></i>
+          <a href="[webversion]">Permalink</a> | <a href="[unsubscribe]">Unsubscribe</a><br>
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td align="left" width="70%">
+              <img width="50px" href="https://codame.com/" src="http://codame.com/sendy/uploads/1571152953.png"></mj-image>
+            </td>
+            <td align="right"> <a href="https://twitter.com/codame">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/twitter.png" />
+                </a> </td>
+            <td align="right"> <a href="https://www.facebook.com/CODAME.ART.TECH">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/facebook.png" />
+                </a> </td>
+            <td align="right"> <a href="https://medium.com/codame-art-tech">
+                  <img width="25" src="https://cdn.recast.ai/newsletter/medium.png" />
+                </a> </td>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
